@@ -4,7 +4,7 @@
  <nav  class="navbar navbar-expand-lg navbar-light px-5" style="background:linear-gradient(to right, #001c68, #00b8a9);">
     
     <a class="navbar-brand ml-1" href="./index.php">
-        <img src="/newproject/images/logo12.png" width="80" height="80" alt="reader">
+        <img src="/newproject/images/logo12.png" width="80" height="80" alt="reader" id="logos">
     </a>
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0"></ul>
     

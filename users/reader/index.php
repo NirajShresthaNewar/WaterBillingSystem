@@ -31,9 +31,9 @@
         <div class="row">
             <div class="col-sm-3">
                 <div class="card">
-                  <a href="Includes/reader.php">
+                  <a href="Includes/reader.php" style="text-decoration:none;">
 
-                      <i class="fa fa-users  mb-2" style="font-size: 70px;"></i>
+                      <i class="fa fa-users  mb-2" style="font-size: 70px; " ></i>
                       <h4 style="color:white;">Generate Bills </h4>
                       <h5 style="color:white;">
                     </a>
@@ -53,8 +53,7 @@
 
 
     <script type="text/javascript" src="/newproject/users/reader/assets/js/script.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" ></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
+    
 </body>
  
 </html>

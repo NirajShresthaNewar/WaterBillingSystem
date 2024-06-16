@@ -6,7 +6,10 @@
     font-size: 18px;
 }
 
-
+a{
+  text-decoration: none;
+  list-style: none;
+}
 
 /*********** admin dashboard styling **********/
   .card{
@@ -28,7 +31,7 @@
       top: 0;
       left: 0;
       background-color: #512da8;
-      background-color: linear-gradient(to right, #001c68, #00b8a9);
+      background: linear-gradient(to right, #001c68, #00b8a9);
       overflow-x: hidden; /* Disable horizontal scroll */
       padding-top: 60px; /* Place content 60px from the top */
       transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -102,4 +105,9 @@ background: linear-gradient(to right, #001c68, #00b8a9);
 box-sizing: border-box;
 box-shadow: #3B3131;
 z-index: 2;
+}
+#logos{
+
+  border: 1px solid black;
+  border-radius: 100%;
 }
